@@ -1,0 +1,300 @@
+Title
+A framework for automated testing
+Towards mlops: A case study of ml pipeline platform
+DevOps for AIâ€“Challenges in Development of AI-enabled Applications
+The key to leveraging AI at scale
+Reliable fleet analytics for edge iot solutions
+Automating tiny ml intelligent sensors devops using microsoft azure
+Edge intelligence: The convergence of humans, things, and ai
+The aiq meta-testbed: Pragmatically bridging academic ai testing and industrial q needs
+Application of DevOps in the improvement of machine learning processes
+The robot head ‘Flobi’: a research platform for cognitive interaction technology
+Software Architecture Best Practices for Enterprise Artificial Intelligence
+Best practices for artificial intelligence in life sciences research
+Artificial Social Intelligence: Hotel Rate Prediction
+Modelops: Cloud-based lifecycle management for reliable and trusted ai
+Automated trainability evaluation for smart software functions
+Mlmodelci: An automatic cloud platform for efficient mlaas
+Using Continuous Integration to organize and monitor the annotation process of domain specific corpora
+Ease. ml: a lifecycle management system for machine learning
+From a data science driven process to a continuous delivery process for machine learning systems
+Ease. ml/ci and ease. ml/meter in action: Towards data management for statistical generalization
+Building continuous integration services for machine learning
+Deploying a Cost-Effective and Production-Ready Deep News Recommender System in the Media Crisis Context.
+An IoT beehive network for monitoring urban biodiversity: vision, method, and architecture
+A cloud-based framework for machine learning workloads and applications
+A development platform of intelligent mobile APP based on edge computing
+ACCORDANT: A domain specific-model and DevOps approach for big data analytics architectures
+Challenges and Experiences with {MLOps} for Performance Diagnostics in {Hybrid-Cloud} Enterprise Software Deployments
+Sustainable mlops: Trends and challenges
+CodeReef: an open platform for portable MLOps, reusable automation actions and reproducible benchmarking
+Who needs MLOps: What data scientists seek to accomplish and how can MLOps help?
+MLOps approach in the cloud-native data pipeline design
+Ethics-by-design: the next frontier of industrialization
+Artificial intelligence in organizations: Current state and future opportunities
+Understanding machine learning model updates based on changes in feature attributions
+Adoption and effects of software engineering best practices in machine learning
+Software engineering for machine learning: A case study
+Tfx: A tensorflow-based production-scale machine learning platform
+Bighead: a framework-agnostic, end-to-end machine learning platform
+Tensorflow-serving: Flexible, high-performance ml serving
+Model governance: Reducing the anarchy of production {ML}
+Modelhub: Deep learning lifecycle management
+{MLOp} Lifecycle Scheme for Vision-based Inspection Process in Manufacturing
+Innovative devops for artificial intelligence
+Scalable multi-framework multi-tenant lifecycle management of deep learning training jobs
+Towards unified data and lifecycle management for deep learning
+Ease. ml/snoopy in action: Towards automatic feasibility analysis for machine learning application development
+DLHub: Model and data serving for science
+Data validation for machine learning
+Ease. ml in action: Towards multi-tenant declarative learning services
+ModelDB: a system for machine learning model management
+Accelerating the machine learning lifecycle with MLflow.
+KETOS: Clinical decision support and machine learning as a service–A training and deployment platform based on Docker, OMOP-CDM, and FHIR Web Services
+The agile deployment of machine learning models in healthcare
+An architecture for agile machine learning in real-time applications
+A taxonomy of software engineering challenges for machine learning systems: An empirical investigation
+Continuous Training for Production {ML} in the {TensorFlow} Extended ({{{{{TFX}}}}}) Platform
+DLHub: Simplifying publication, discovery, and use of machine learning models in science
+Flux: Groupon's automated, scalable, extensible machine learning platform
+Datahub: Collaborative data science & dataset version management at scale
+Towards a serverless platform for edge {AI}
+PADL: A modeling and deployment language for advanced analytical services
+Developing and operating artificial intelligence models in trustworthy autonomous systems
+Developing ml/dl models: A design framework
+Project repositories for machine learning with TensorFlow
+Deployment of a machine learning system for predicting lawsuits against power companies: lessons learned from an agile testing experience for improving software quality
+Continuous Data Quality Management for Machine Learning based Data-as-a-Service Architectures.
+Modelling Data Pipelines
+Automated end-to-end management of the modeling lifecycle in deep learning
+Tensorflow data validation: Data analysis and validation in continuous ml pipelines
+Data lifecycle challenges in production machine learning: a survey
+On challenges in machine learning model management
+MLIoT: An end-to-end machine learning system for the Internet-of-Things
+Machine learning lifecycle for earth science application: a practical insight into production deployment
+Context: The missing piece in the machine learning lifecycle
+M-Lean: An end-to-end development framework for predictive models in B2B scenarios
+Deep learning model management for coronary heart disease early warning research
+Smart manufacturing and continuous improvement and adaptation of predictive models
+Concept for a technical infrastructure for management of predictive models in industrial applications
+From ad-hoc data analytics to dataops
+Developments in mlflow: A system to accelerate the machine learning lifecycle
+On-Premise AI Platform: From DC to Edge
+A comprehensive study on challenges in deploying deep learning based software
+Who needs to know what, when?: Broadening the Explainable AI (XAI) Design Space by Looking at Explanations Across the AI Lifecycle
+Benchmarking machine learning solutions in production
+MLOps challenges in multi-organization setup: Experiences from two real-world cases
+Provenance data in the machine learning lifecycle in computational science and engineering
+Aiops: real-world challenges and research innovations
+Building a platform for machine learning operations from open source frameworks
+A software engineering perspective on engineering machine learning systems: State of the art and challenges
+Kafka-ML: Connecting the data stream with ML/AI frameworks
+Large-scale machine learning systems in real-world industrial settings: A review of challenges and solutions
+Model-driven ML-Ops for intelligent enterprise applications: vision, approaches and challenges
+An end-to-end framework for productive use of machine learning in software analytics and business intelligence solutions
+Characterizing machine learning processes: A maturity framework
+Assuring the machine learning lifecycle: Desiderata, methods, and challenges
+Recommendations for all: Solving thousands of recommendation problems daily
+Billion-scale commodity embedding for e-commerce recommendation in alibaba
+Collaborative multi-modal deep learning for the personalized product retrieval in facebook marketplace
+Learning in the “Real World”
+Wide & deep learning for recommender systems
+Mobile recommendations based on interest prediction from consumer's installed apps–insights from a large-scale field study
+Deep neural networks for youtube recommendations
+Quick access: building a smart experience for Google drive
+Related pins at pinterest: The evolution of a real-world recommender system
+Pixie: A system for recommending 3+ billion items to 200+ million users in real-time
+GraphJet: Real-time content recommendations at Twitter
+Wtf: The who to follow service at twitter
+Email volume optimization at LinkedIn
+Notification volume control and optimization system at Pinterest
+Optimizing email volume for sitewide engagement
+Cascade ranking for operational e-commerce search
+Perceive your users in depth: Learning universal user representations from multiple e-commerce tasks
+Personalized federated search at linkedin
+Click-through prediction for advertising in twitter timeline
+Design principles of massive, robust prediction systems
+Machine learning for targeted display advertising: Transfer learning in action
+Robust large-scale machine learning in the cloud
+Cota: Improving the speed and accuracy of customer support through ranking and deep networks
+Facebook immune system
+Early security classification of skype users via machine learning
+Session-based fraud detection in online e-commerce transactions using recurrent neural networks
+Fraud detection within bankcard enrollment on mobile device based payment using machine learning
+The connecteddrive context server–flexible software architecture for a context aware vehicle
+Insert beyond the traffic sign recognition: constructing an auto-pilot map for autonomous vehicles
+Adasa: A conversational in-vehicle digital assistant for advanced driver assistance features
+Impact of Advanced Synoptics and Simplified Checklists during Aircraft Systems Failures
+Real-time prediction of flight arrival times using surveillance information
+Intelligent network management mechanisms as a step towards SG
+Darn: Dynamic baselines for real-time network monitoring
+Subscriber classification within telecom networks utilizing big data technologies and machine learning
+Preprocessing prediction of advanced algorithms for medical imaging
+Development of an infrastructure for the prediction of biological endpoints in industrial environments. Lessons learned at the eTOX project
+Implementation of cyber-physical production systems for quality prediction and operation control in metal casting
+Intelligent security on the edge of the cloud
+Practical machine learning for cloud intrusion detection: Challenges and the way forward
+The data linter: Lightweight, automated sanity checking for ml data sets
+""" Deep"" Learning for Missing Value Imputationin Tables with Non-numerical Data"
+Deepx: A software accelerator for low-power deep learning inference on mobile devices
+Diagnostic visualization for non-expert machine learning practitioners: A design study
+Dynamic control flow in large-scale machine learning
+Swayam: distributed autoscaling to meet slas of machine learning inference services with resource efficiency
+TensorFlow Acceleration on ARM Hikey Board
+Tensorflow debugger: Debugging dataflow graphs for machine learning
+Gadei: On scale-up training as a service for deep learning
+Declarative metadata management: A missing piece in end-to-end machine learning
+IBM deep learning service
+Nexus: bringing efficient and scalable training to deep learning frameworks
+Runway: machine learning model experiment management tool
+The ML test score: A rubric for ML production readiness and technical debt reduction
+Automating large-scale data quality verification
+Making the case for safety of machine learning in highly automated driving
+Deep learning challenges and solutions with xilinx fpgas
+A service mesh-based load balancing and task scheduling system for deep learning applications
+Deep learning cookbook: recipes for your AI infrastructure and applications
+Deep learning based parking prediction on cloud platform
+Deploying AI frameworks on secure HPC systems with containers
+Edgelens: Deep learning based object detection in integrated iot, fog and cloud computing environments
+Architecting AI Deployment: A Systematic Review of State-of-the-art and State-of-practice Literature
+Containerized architecture for edge computing in smart home: A consistent architecture for model deployment
+A reality check on inference at mobile networks edge
+OpenEI: An open framework for edge intelligence
+Cloud computing architecture for high-volume ML-based solutions
+Extending reference architecture of big data systems towards machine learning in edge computing environments
+Automating cloud deployment for deep learning inference of real-time online services
+Applied machine learning at facebook: A datacenter infrastructure perspective
+Deploying deep learning models via iot deployment tools
+Engineering ai systems: A research agenda
+Demystifying mlops and presenting a recipe for the selection of open-source tools
+Towards regulatory-compliant MLOps: Oravizioâ€™s journey from a machine learning experiment to a deployed certified medical product
+Mímir: Building and Deploying an ML Framework for Industrial IoT
+Missing the forest for the trees: End-to-end ai application performance in edge data centers
+Scaling Machine Learning as a Service
+Clipper: A {Low-Latency} online prediction serving system
+150 successful machine learning models: 6 lessons learned at booking. com
+A case for managed and model-less inference serving
+Migrating a recommendation system to cloud using ml workflow
+Lazy batching: An SLA-aware batching system for cloud machine learning inference
+{Model-Switching}: Dealing with Fluctuating Workloads in {Machine-Learning-as-a-Service} Systems
+Architecture for enabling edge inference via model transfer from cloud domain in a kubernetes environment
+Software engineering for artificial intelligence and machine learning software: A systematic literature review
+Understanding development process of machine learning systems: Challenges and solutions
+How do engineers perceive difficulties in engineering of machine-learning systems?-questionnaire survey
+Data management challenges for deep learning
+Implementing ethics in AI: initial results of an industrial multiple case study
+Implementing AI ethics in practice: An empirical evaluation of the RESOLVEDD strategy
+Taming functional deficiencies of automated driving systems: A methodology framework toward safety validation
+Your system gets better every day you use it: towards automated continuous experimentation
+DataLab: Introducing software engineering thinking into data science education at scale
+Trials and tribulations of developers of intelligent systems: A field study
+Lean data science research life cycle: A concept for data analysis software development
+An empirical study of bugs in machine learning systems
+Beyond the Prototype: The Design Evolution of a Deployed AI System
+Software development for cim—a case study
+An empirical study towards characterizing deep learning development and deployment across different frameworks and platforms
+Reusability in artificial neural networks: An empirical study
+Metric-based evaluation of multiagent systems models
+Guiding deep learning system testing using surprise adequacy
+Requirements and initial model for knowlang: a language for knowledge representation in autonomic service-component ensembles
+Black box fairness testing of machine learning models
+Bridging the gap between ml solutions and their business requirements using feature interactions
+Boosting operational DNN testing efficiency through conditioning
+Stress testing an AI based web service: A case study
+The emerging role of data scientists on software development teams
+The current status of expert system development and related technologies in Japan
+On the engineering of AI-powered systems
+Why is developing machine learning applications challenging? a study on stack overflow posts
+A practical framework for agent-based hybrid intelligent systems
+Studying software engineering patterns for designing machine learning systems
+Ai deployment architecture: Multi-case study for key factor identification
+Software engineering challenges of deep learning
+Hidden technical debt in machine learning systems
+Developing bug-free machine learning systems with formal mathematics
+Machine learning system architectural pattern for improving operational stability
+On testing machine learning programs
+The challenge of verification and testing of machine learning
+Standardizing ethical design for artificial intelligence and autonomous systems
+How do scientists develop and use scientific software?
+Validating a deep learning framework by metamorphic testing
+Data scientists in software teams: State of the art and challenges
+Engineering safety in machine learning
+Deepxplore: Automated whitebox testing of deep learning systems
+Deepgauge: Multi-granularity testing criteria for deep learning systems
+Machine learning software engineering in practice: An industrial case study
+Feature-guided black-box safety testing of deep neural networks
+DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems
+An architectural framework for the construction of hybrid intelligent forecasting systems: application for electricity demand prediction
+Solution patterns for machine learning
+MODE: automated neural network model debugging via state differential analysis and input selection
+Testing and validating machine learning classifiers by metamorphic testing
+Concolic testing for deep neural networks
+Testing deep neural networks
+Deeptest: Automated testing of deep-neural-network-driven autonomous cars
+Rules of machine learning: Best practices for ML engineering
+When DevOps meets meta-learning: A portfolio to rule them all
+Collective knowledge: organizing research projects as a database of reusable components and portable workflows with common interfaces
+Machine Learning Operations
+Applying DevOps practices of continuous automation for machine learning
+Dynamic autoselection and autotuning of machine learning models for cloud network analytics
+ml-experiment: A Python framework for reproducible data science
+Machine learning pipelines: From research to production
+A data quality-driven view of mlops
+The machine learning life cycle and the cloud: implications for drug discovery
+AI models and their worlds: Investigating data-driven, AI/ML ecosystems through a work practices lens
+An Automatic Artificial Intelligence Training Platform Based on Kubernetes
+DevOps Portal Design for SmartX AI Cluster Employing Cloud-Native Machine Learning Workflows
+Brazilian data scientists: Revealing their challenges and practices on machine learning model development
+An empirical study of common challenges in developing deep learning applications
+Towards a software engineering process for developing data-driven applications
+Achieving guidance in applied machine learning through software engineering techniques
+Towards accountability for machine learning datasets: Practices from software engineering and infrastructure
+Towards concept based software engineering for intelligent agents
+How does machine learning change software development practices?
+Sensemaking practices in the everyday work of AI/ML software engineering
+Risk-based data validation in machine learning-based software systems
+Supporting software engineering practices in the development of data-intensive hpc applications with the juml framework
+Aimmx: Artificial intelligence model metadata extractor
+A large-scale comparative analysis of coding standard conformance in open-source data science projects
+Software engineering for data analytics
+Guidelines for performing systematic literature reviews in software engineering
+Toward human-in-the-loop collaboration between software engineers and machine learning algorithms
+A scientific knowledge discovery and data mining process model for metabolomics
+Analysis of software engineering for agile machine learning projects
+Software engineering practices for machine learning
+A systematic literature review on federated machine learning: From a software engineering perspective
+Synergy between machine/deep learning and software engineering: How far are we?
+Software engineering for machine-learning applications: The road ahead
+Automotive safety and machine learning: initial results from a study on how to adapt the ISO 26262 safety standard
+Towards classes of architectural dependability assurance for machine-learning-based systems
+Interpreting cloud computer vision pain-points: A mining study of Stack Overflow
+Importance-driven deep learning system testing
+Developing machine learning products better and faster at startups
+Asset management in machine learning: A survey
+Toward requirements specification for machine-learned components
+Building artificial intelligent (AI) products that make sense
+A business model template for AI solutions
+Data management in machine learning: Challenges, techniques, and systems
+Improving fairness in machine learning systems: What do industry practitioners need?
+Machine learning for the developing world
+Machine learning in the real world
+Vertica-ml: Distributed machine learning in vertica database
+Modeling machine learning requirements from three perspectives: a case report from the healthcare domain
+Is machine learning software just software: A maintainability view
+Artificial intelligence and machine learning as business tools: A framework for diagnosing value destruction potential
+Machine learning for enterprises: Applications, algorithm selection, and challenges
+Toward data mining engineering: A software engineering approach
+How do data scientists and managers influence machine learning value creation?
+A systematic literature review on applying CRISP-DM process model
+Data science methodologies: Current challenges and future approaches
+Business analysis method for constructing business–AI alignment model
+Big Data analytics in Agile software development: A systematic mapping study
+Machine learning algorithms in production: A guideline for efficient data source selection
+A case for serverless machine learning
+Exploring serverless computing for neural network training
+Implementation of unsupervised k-means clustering algorithm within amazon web services lambda
+Pay-per-request deployment of neural network models using serverless architectures
+Serving deep learning models in a serverless platform
+Barista: Efficient and scalable serverless serving system for deep learning prediction services
+Behavior analysis using serverless machine learning
+Cirrus: A serverless framework for end-to-end ml workflows
